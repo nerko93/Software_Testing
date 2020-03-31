@@ -24,7 +24,7 @@ public class RingBufferTest{
 		buffer.enqueue(ITEM2);
 	}
 
-	@AfterEach
+	@AfterAll
 	public void teardown() throws Exception {
 		buffer = null;
 	} 

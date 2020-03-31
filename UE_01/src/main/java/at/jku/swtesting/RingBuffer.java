@@ -1,5 +1,8 @@
 package at.jku.swtesting;
 
+import java.util.ArrayList;
+import java.util.Collections;
+
 /**
  * The RingBuffer class represents a last-in-first-out (LIFO) circular queue of elements. 
  * It has a maximum capacity of elements it can hold. If more elements are added, the 
@@ -33,7 +36,28 @@ public class RingBuffer<Item> {
 	 * @throws IndexOutOfBoundsException if new capacity is less than the size of the buffer.
 	 */
 	public void setCapacity(int newCapacity) throws IndexOutOfBoundsException {
-		//TODO: Implement method
+		
+		if (newCapacity < 1) {
+			throw new IllegalArgumentException("Initial capacity is less than one");
+		}else if(newCapacity < size()){
+			throw new IndexOutOfBoundsException("New Capacity is smaller than current buffer size");
+		}
+
+		ArrayList<Item> tempList = new ArrayList<Item>();
+		int initialSize = size();
+
+		for(int i = 0; i < initialSize; i++){
+			tempList.add(dequeue());
+		}
+
+		first = 0;
+		last = 0;
+		N = 0;
+		a = (Item[]) new Object[newCapacity];
+
+		for(int i = 0; i < tempList.toArray().length; i++){
+			enqueue(tempList.get(i));
+		}
 	}	
 	
 	/** 

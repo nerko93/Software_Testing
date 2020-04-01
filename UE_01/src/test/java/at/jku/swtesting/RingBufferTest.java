@@ -1,19 +1,14 @@
 package at.jku.swtesting;
-
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance.Lifecycle;
 import org.junit.jupiter.api.TestInstance;
 import static org.junit.jupiter.api.Assertions.*;
-
 import java.util.ArrayList;
-
 import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 
 @TestInstance(Lifecycle.PER_CLASS)
-public class RingBufferTest{
+public class RingBufferTest {
 
 	private RingBuffer<String> buffer;
 	private static final  String ITEM1 = "item1";

@@ -41,6 +41,8 @@ public class RingBuffer<Item> {
 			throw new IllegalArgumentException("Initial capacity is less than one");
 		}else if(newCapacity < size()){
 			throw new IndexOutOfBoundsException("New Capacity is smaller than current buffer size");
+		}else if(newCapacity == capacity()){
+			return;
 		}
 
 		ArrayList<Item> tempList = new ArrayList<Item>();

@@ -1,0 +1,3338 @@
+No change of any variables.
+Exception because constructor parameter 'capacity' is lower than 1!
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+Exception because constructor parameter 'capacity' is lower than 1!
+Exception because constructor parameter 'capacity' is lower than 1!
+Exception because the new capacity is lower than the size of the ring buffer!
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+Exception because constructor parameter 'capacity' is lower than 1!
+Exception because of dequeueing from empty ring buffer!
+No change of any variables.
+Exception because of dequeueing from empty ring buffer!
+Exception because constructor parameter 'capacity' is lower than 1!
+No change of any variables.
+Exception because the ring buffer is empty and therefore has no peak!
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+Exception because of dequeueing from empty ring buffer!
+Exception because of dequeueing from empty ring buffer!
+No change of any variables.
+No change of any variables.
+No change of any variables.
+Exception because of dequeueing from empty ring buffer!
+No change of any variables.
+No change of any variables.
+Exception because of dequeueing from empty ring buffer!
+No change of any variables.
+Exception because of dequeueing from empty ring buffer!
+Exception because the ring buffer is empty and therefore has no peak!
+Exception because constructor parameter 'capacity' is lower than 1!
+No change of any variables.
+No change of any variables.
+Exception because constructor parameter 'capacity' is lower than 1!
+Exception because the ring buffer is empty and therefore has no peak!
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+Exception because constructor parameter 'capacity' is lower than 1!
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+No change of any variables.
+Exception because constructor parameter 'capacity' is lower than 1!
+No change of any variables.
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done Random reset(true)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done Random reset(true)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, setCapacity, FULL)
+No change of any variables.
+done (FULL, size, FULL)
+No change of any variables.
+done (FULL, peek, FULL)
+No change of any variables.
+done (FULL, isFull, FULL)
+No change of any variables.
+done (FULL, isFull, FULL)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FULL, newRingBufferWithNegativeCapacity, FULL)
+No change of any variables.
+done (FULL, peek, FULL)
+done (FULL, setCapacity, FULL)
+done (FULL, setCapacity, FULL)
+No change of any variables.
+done (FULL, isEmpty, FULL)
+No change of any variables.
+done (FULL, size, FULL)
+done (FULL, setCapacity, FULL)
+done (FULL, setCapacity, FULL)
+No change of any variables.
+done (FULL, peek, FULL)
+No change of any variables.
+done (FULL, capacity, FULL)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FULL, newRingBufferWithNegativeCapacity, FULL)
+done (FULL, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done (FILLED, setCapacity, FILLED)
+done Random reset(true)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done Random reset(true)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done Random reset(true)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, dequeue, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, enqueue, FILLED)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done Random reset(true)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done Random reset(true)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done Random reset(true)
+done Random reset(true)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, dequeue, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done Random reset(true)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, dequeue, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done Random reset(true)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FULL)
+done (FULL, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FULL)
+No change of any variables.
+done (FULL, size, FULL)
+No change of any variables.
+done (FULL, isFull, FULL)
+No change of any variables.
+done (FULL, peek, FULL)
+No change of any variables.
+done (FULL, capacity, FULL)
+No change of any variables.
+done (FULL, capacity, FULL)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done Random reset(true)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done Random reset(true)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, init, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done Random reset(true)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done Random reset(true)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, enqueue, FILLED)
+Exception because the new capacity is lower than the size of the ring buffer!
+done (FILLED, setCapacityLowerThanSize, FILLED)
+done (FILLED, enqueue, FULL)
+No change of any variables.
+done (FULL, isEmpty, FULL)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FULL, newRingBufferWithNegativeCapacity, FULL)
+No change of any variables.
+done (FULL, isEmpty, FULL)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FULL, newRingBufferWithNegativeCapacity, FULL)
+No change of any variables.
+done (FULL, capacity, FULL)
+done (FULL, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done Random reset(true)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, setCapacity, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, dequeue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, init, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, enqueue, FILLED)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, dequeue, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+done (FILLED, enqueue, FILLED)
+done (FILLED, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, isFull, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, dequeue, FILLED)
+done (FILLED, init, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+done Random reset(true)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+done Random reset(true)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+No change of any variables.
+done (FILLED, size, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, size, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done Random reset(true)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, peek, FILLED)
+No change of any variables.
+done (FILLED, capacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+done Random reset(true)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (FILLED, newRingBufferWithNegativeCapacity, FILLED)
+done (FILLED, dequeue, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+done (EMPTY, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, enqueue, FILLED)
+No change of any variables.
+done (FILLED, isEmpty, FILLED)
+done (FILLED, setCapacity, FILLED)
+done (FILLED, init, EMPTY)
+Exception because constructor parameter 'capacity' is lower than 1!
+done (EMPTY, newRingBufferWithNegativeCapacity, EMPTY)
+done (EMPTY, init, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+Exception because of dequeueing from empty ring buffer!
+done (EMPTY, dequeueFromEmptyRingBuffer, EMPTY)
+No change of any variables.
+done (EMPTY, capacity, EMPTY)
+No change of any variables.
+done (EMPTY, isEmpty, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+No change of any variables.
+done (EMPTY, isFull, EMPTY)
+done (EMPTY, setCapacity, EMPTY)
+Exception because the ring buffer is empty and therefore has no peak!
+done (EMPTY, peekOfEmptyRingBuffer, EMPTY)
+done (EMPTY, enqueue, FILLED)
+done (FILLED, init, EMPTY)
+done (EMPTY, init, EMPTY)
+done Random reset(true)
+action coverage: 13/13
+state coverage: 3/3
+transition coverage: 33/33

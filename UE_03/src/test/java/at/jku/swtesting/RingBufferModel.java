@@ -40,9 +40,13 @@ public class RingBufferModel implements FsmModel {
 	public void setCapacity() { capacity = RANDOM_CAPACITY; }
 	public boolean setCapacityGuard() { return RANDOM_CAPACITY >= size; }
 	
+	// Size can only be increased when in empty or filled state, otherwise when called in full state do nothing
 	@Action
-	public void enqueue() { size++; }
-	public boolean enqueueGuard() { return size < capacity && capacity > 0; }
+	public void enqueue() { 
+		if(size < capacity){
+			size++;
+		}
+	}
 
 	@Action
 	public void dequeue() { size--; }

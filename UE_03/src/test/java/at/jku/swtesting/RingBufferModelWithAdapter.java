@@ -120,4 +120,10 @@ public class RingBufferModelWithAdapter extends RingBufferModel {
 		Assertions.assertThrows(RuntimeException.class, () -> ringBuffer.peek());
 	}
 
+
+	public void main(String [] args){
+		RingBufferModelWithAdapterTest test = new RingBufferModelWithAdapterTest();
+		test.testRingBufferModelWithAdapter();
+	}
+
 }

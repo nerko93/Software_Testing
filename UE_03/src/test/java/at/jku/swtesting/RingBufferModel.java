@@ -88,4 +88,10 @@ public class RingBufferModel implements FsmModel {
 	public void peekOfEmptyRingBuffer() { System.out.println("Exception because the ring buffer is empty and therefore has no peak!"); }
 	public boolean peekOfEmptyRingBufferGuard() { return size == 0; }
 
+	public void main(String [] args){
+		RingBufferModelTest test = new RingBufferModelTest();
+		test.testRingBufferModel();
+	}
+
+
 }

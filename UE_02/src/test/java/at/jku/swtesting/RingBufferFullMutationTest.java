@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @Tag("groupE")
 @DisplayName("Group E - Assignment 1 - RingerBufferTests")
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-public class RingBufferTest {
+public class RingBufferFullMutationTest {
 
     private ArrayList<String> bufferList;
     private RingBuffer<String> buffer;
@@ -57,6 +57,13 @@ public class RingBufferTest {
             new RingBuffer<>(0);
         });
     }
+    
+    // Kill mutation "changed conditional boundary"
+    @Test
+    public void testCapacityForPositveCapacity() {
+        RingBuffer<String> b = new RingBuffer<>(1);
+        assertNotEquals(null, b);
+    }
 
     @Test
     public void testSize(){
@@ -86,7 +93,8 @@ public class RingBufferTest {
         );
     }
 
-    @Test
+    // Not necessery anymore - new test method testEnqueueTooManyItems
+    /*@Test
     public void testEnqueueOverfilling() {
         buffer.enqueue(ITEM3);
         buffer.enqueue((ITEM3));
@@ -97,6 +105,36 @@ public class RingBufferTest {
                 () -> assertFalse(buffer.isEmpty()),
                 () -> assertTrue(buffer.isFull())
         );
+    }*/
+    
+    // Kill mutation "replaced integer addition with subtraction"
+    // the buffer should remove the first added item and dequeue the second added item
+    @Test
+    public void testEnqueueTooManyItems() {
+    	assertAll(
+    			() -> assertEquals(buffer.size(), 2),
+    			() -> assertEquals(buffer.capacity(), 3),
+    			() -> assertFalse(buffer.isFull())
+    	);
+    	buffer.enqueue((ITEM3));
+    	assertAll(
+    			() -> assertEquals(buffer.size(), 3),
+    			() -> assertEquals(buffer.capacity(), 3),
+    			() -> assertTrue(buffer.isFull())
+    	);
+    	buffer.enqueue((ITEM3));
+    	assertAll(
+    			() -> assertEquals(buffer.size(), 3),
+    			() -> assertEquals(buffer.capacity(), 3),
+    			() -> assertTrue(buffer.isFull())
+    	);
+    	String item = buffer.dequeue();
+    	assertAll(
+    			() -> assertEquals(buffer.size(), 2),
+    			() -> assertEquals(buffer.capacity(), 3),
+    			() -> assertEquals(ITEM2, item),
+    			() -> assertFalse(buffer.isFull())
+    	);
     }
 
     @Test
